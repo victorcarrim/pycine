@@ -1,6 +1,6 @@
 # Clonar Projeto
 ```
-https://github.com/victorcarrim/pycine.git
+git clone https://github.com/victorcarrim/pycine.git
 
 ```
 
