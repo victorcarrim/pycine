@@ -40,8 +40,8 @@
       <p class="card-text">{artist.biography}</p>
     </div>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">Nascimento: {artist.birthday}</li>
-      <li class="list-group-item">Cidade Natal: {artist.place_of_birth}</li>
+      <li class="list-group-item">ID: {artist.id}</li>
+      <li class="list-group-item">Popularidade: {artist.popularity}</li>
       <li class="list-group-item">Profissao Principal: {artist.known_for_department}</li>
       {#if artist.deathday}
         <li class="list-group-item">Falecimento: {artist.deathday}</li>
